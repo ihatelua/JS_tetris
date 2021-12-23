@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\작업영역"
+		},
+		{
+			"path": "..\\작업영역2\\JS-noob"
+		},
+		{
+			"path": "D:\\동국대 웹스퀘어\\유드림스\\uDRIMS"
+		}
+	],
+	"settings": {
+		"favorites.resources": [
+			"c:\\Users\\Dev\\Documents\\작업영역\\메모1"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "작업영역"
+	}
+}
