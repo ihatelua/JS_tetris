@@ -36,8 +36,11 @@ function play() {
       piece.rotate();
     }
     if(e.keyCode == '32'){
-      piece.yMove(15);
+      piece.yMove(18);
+      debugger;
     }
+    
+
   });
     
   setInterval(() => {
